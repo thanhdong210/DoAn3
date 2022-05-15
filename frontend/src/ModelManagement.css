@@ -1,0 +1,19 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.model_management .button {
+    margin-left: 700px;
+    background-color: blue;
+    margin-top: 50px;
+    color: white;
+}
+
+.button {
+    margin-left: 700px;
+    background-color: blue;
+    margin-top: 50px;
+    color: white;
+}
